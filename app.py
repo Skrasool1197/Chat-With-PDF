@@ -13,7 +13,7 @@ from langchain_core.chat_history import BaseChatMessageHistory
 from langchain_huggingface import HuggingFaceEmbeddings
 import os
 from dotenv import load_dotenv
-
+ 
 # Load environment variables
 load_dotenv()
 
